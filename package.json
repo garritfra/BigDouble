@@ -1,0 +1,25 @@
+{
+  "name": "bigdouble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garritfra/BigDouble.git"
+  },
+  "keywords": [
+    "Big",
+    "Double",
+    "Exponent",
+    "Mantissa"
+  ],
+  "author": "garritfra",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/garritfra/BigDouble/issues"
+  },
+  "homepage": "https://github.com/garritfra/BigDouble#readme"
+}

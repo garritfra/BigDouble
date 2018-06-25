@@ -4,8 +4,15 @@ This package is used to display huge numbers.
 
 ## Usage
 
-```js
-const bigDouble = new BigDouble(12, 100)
+```sh
+npm i bigdouble
+```
 
-console.log(bigDouble.toString())
+```js
+const BigDouble = require("bigdouble")
+
+
+const myNumber = new BigDouble(12, 100)
+
+console.log(myNumber.toString())
 ```
